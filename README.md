@@ -3,7 +3,7 @@
 * mihomo
     ```
     rule-providers:
-    cross_block:
+      cross_block:
         type: http
         behavior: classical
         format: text
@@ -11,7 +11,7 @@
         url: "https://raw.githubusercontent.com/tauCross/cross_rules/refs/heads/main/block.list"
         interval: 3600
 
-    cross_proxy:
+      cross_proxy:
         type: http
         behavior: classical
         format: text
@@ -20,9 +20,9 @@
         interval: 3600
 
     rules:
-    - DOMAIN-SUFFIX,githubusercontent.com,Proxy
+      - DOMAIN-SUFFIX,githubusercontent.com,Proxy
 
-    - RULE-SET,cross_block,REJECT
-    - RULE-SET,cross_proxy,Proxy
-    - MATCH,DIRECT
+      - RULE-SET,cross_block,REJECT
+      - RULE-SET,cross_proxy,Proxy
+      - MATCH,DIRECT
     ```
