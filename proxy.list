@@ -141,10 +141,17 @@ DOMAIN-SUFFIX,geckoterminal.com
 DOMAIN-SUFFIX,pump.fun
 DOMAIN-SUFFIX,whoer.net
 
+# PT / Torrent
+DOMAIN-SUFFIX,torrentkitty.net
+DOMAIN-SUFFIX,woniu.ws
+DOMAIN-SUFFIX,btschool.club
+DOMAIN-SUFFIX,hares.top
+DOMAIN-SUFFIX,pttime.org
+DOMAIN-SUFFIX,m-team.cc
+
 # Misc / Forums / Proxy
 DOMAIN-SUFFIX,gfw.report
 DOMAIN-SUFFIX,greasyfork.org
-DOMAIN-SUFFIX,torrentkitty.net
 DOMAIN-SUFFIX,flightaware.com
 DOMAIN-SUFFIX,planefinder.net
 DOMAIN-SUFFIX,3gppnetwork.org
@@ -177,7 +184,7 @@ DOMAIN-SUFFIX,t-mobile.com
 DOMAIN-SUFFIX,ultramobile.com
 DOMAIN-SUFFIX,ptt.cc
 
-# Adult / PT / Art / Books
+# Adult / Art / Books
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,spankbang.com
@@ -197,11 +204,6 @@ DOMAIN-SUFFIX,xfantazy.com
 DOMAIN-SUFFIX,ninpulove.com
 DOMAIN-SUFFIX,k2s.cc
 DOMAIN-SUFFIX,cableav.tv
-DOMAIN-SUFFIX,woniu.ws
-DOMAIN-SUFFIX,btschool.club
-DOMAIN-SUFFIX,hares.top
-DOMAIN-SUFFIX,pttime.org
-DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,pixiv.net
