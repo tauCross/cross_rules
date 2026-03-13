@@ -14,7 +14,6 @@ DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,webpkgcache.com
-IP-CIDR,8.8.8.8/32,no-resolve
 
 # Dev / Software / CDN
 DOMAIN-SUFFIX,gitlab.com
@@ -155,7 +154,6 @@ DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,flightaware.com
 DOMAIN-SUFFIX,planefinder.net
 DOMAIN-SUFFIX,3gppnetwork.org
-DOMAIN-SUFFIX,pub.3gppnetwork.org
 DOMAIN-SUFFIX,uscardforum.com
 DOMAIN-SUFFIX,extrabux.com
 DOMAIN-SUFFIX,tunesolo.com
@@ -177,7 +175,6 @@ DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,cdnst.net
 DOMAIN-SUFFIX,audiences.me
-IP-CIDR,169.254.169.254/32,no-resolve
 
 # Carrier / Taiwan
 DOMAIN-SUFFIX,t-mobile.com
