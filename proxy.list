@@ -75,6 +75,11 @@ DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,omdbapi.com
+DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,fanart.tv
+DOMAIN-SUFFIX,anidb.net
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,bbc.com
