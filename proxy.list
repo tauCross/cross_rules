@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflare.net
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,alpinelinux.org
 DOMAIN-SUFFIX,openwrt.org
