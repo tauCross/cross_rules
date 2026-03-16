@@ -74,6 +74,7 @@ DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,truthsocial.com
+DOMAIN,nexus-websocket-a.intercom.io
 
 # Video / News
 DOMAIN-SUFFIX,youtube.com
