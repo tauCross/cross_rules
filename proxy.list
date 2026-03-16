@@ -152,13 +152,10 @@ DOMAIN-SUFFIX,geckoterminal.com
 DOMAIN-SUFFIX,pump.fun
 DOMAIN-SUFFIX,whoer.net
 
-# PT / Torrent
+# Torrent Web Only
+# Do not add private tracker root domains here. DOMAIN-SUFFIX rules also match
+# tracker subdomains and can make announces go through the proxy exit IP.
 DOMAIN-SUFFIX,torrentkitty.net
-DOMAIN-SUFFIX,woniu.ws
-DOMAIN-SUFFIX,btschool.club
-DOMAIN-SUFFIX,hares.top
-DOMAIN-SUFFIX,pttime.org
-DOMAIN-SUFFIX,m-team.cc
 
 # Misc / Forums / Proxy
 DOMAIN-SUFFIX,gfw.report
