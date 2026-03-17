@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
