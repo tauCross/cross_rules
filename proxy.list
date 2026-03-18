@@ -21,6 +21,11 @@ DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,webpkgcache.com
 
+# IP Rules
+IP-CIDR,162.125.80.5/32
+IP-CIDR,199.96.58.15/32
+IP-CIDR,128.242.240.93/32
+
 # Dev / Software / CDN
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,github.com
