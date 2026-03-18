@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,google.dev
 DOMAIN-SUFFIX,googlezip.net
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,ytimg.com
@@ -178,6 +179,7 @@ DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,medium.com
+DOMAIN-SUFFIX,patreon.com
 DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,truthsocial.com
 DOMAIN,nexus-websocket-a.intercom.io
