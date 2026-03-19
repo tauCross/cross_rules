@@ -23,6 +23,17 @@ DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,webpkgcache.com
 DOMAIN-SUFFIX,gvt2.com
 
+# IP Rules (IPv4)
+IP-CIDR,91.108.4.0/22,no-resolve
+IP-CIDR,91.108.56.0/22,no-resolve
+IP-CIDR,109.239.140.0/24,no-resolve
+IP-CIDR,149.154.160.0/20,no-resolve
+IP-CIDR,169.254.169.254/32
+IP-CIDR,216.239.32.178/32
+IP-CIDR,216.239.38.178/32
+
+# IP Rules (IPv6)
+
 # Dev / Software / CDN
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,github.com
@@ -116,10 +127,6 @@ DOMAIN-SUFFIX,tel-gram.com
 DOMAIN-SUFFIX,telegramgroups.com.hk
 DOMAIN-SUFFIX,telemetr.io
 DOMAIN-SUFFIX,textnow.com
-IP-CIDR,91.108.4.0/22,no-resolve
-IP-CIDR,91.108.56.0/22,no-resolve
-IP-CIDR,109.239.140.0/24,no-resolve
-IP-CIDR,149.154.160.0/20,no-resolve
 
 # TikTok / ByteDance
 DOMAIN,p16-tiktokcdn-com.akamaized.net
