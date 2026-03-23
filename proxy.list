@@ -2,10 +2,12 @@
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,withcat.ai
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
