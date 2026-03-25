@@ -29,12 +29,14 @@ DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,webpkgcache.com
 DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,gvt3.com
 
 # IP Rules (IPv4)
 IP-CIDR,5.28.195.2/32
 IP-CIDR,91.108.4.0/22,no-resolve
 IP-CIDR,91.108.56.0/22,no-resolve
 IP-CIDR,95.161.76.100/32
+IP-CIDR,108.160.166.148/32
 IP-CIDR,109.239.140.0/24,no-resolve
 IP-CIDR,149.154.160.0/20,no-resolve
 IP-CIDR,169.254.169.254/32
@@ -69,6 +71,7 @@ DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare.net
+DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,openstreetmap.org
