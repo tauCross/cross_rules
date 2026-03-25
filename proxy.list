@@ -1,5 +1,10 @@
 # Search / AI
 DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,duckduckgo.com
+DOMAIN-SUFFIX,startpage.com
+DOMAIN-SUFFIX,ecosia.org
+DOMAIN-SUFFIX,qwant.com
+DOMAIN-SUFFIX,wolframalpha.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,huggingface.co
