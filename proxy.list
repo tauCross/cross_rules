@@ -236,6 +236,7 @@ DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,cdnst.net
 DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,ssscdn.io
 
 # Carrier / Taiwan
 DOMAIN-SUFFIX,t-mobile.com
