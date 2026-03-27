@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,ggpht.com
+DOMAIN,mobile.events.data.microsoft.com
 DOMAIN-SUFFIX,google.dev
 DOMAIN-SUFFIX,googlezip.net
 DOMAIN-SUFFIX,withgoogle.com
