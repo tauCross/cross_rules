@@ -75,6 +75,7 @@ DOMAIN-SUFFIX,pytorch.org
 DOMAIN-SUFFIX,stackoverflow.com
 DOMAIN-SUFFIX,figma.com
 DOMAIN-SUFFIX,typora.io
+DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,bootstrapcdn.com
