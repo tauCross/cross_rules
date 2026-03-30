@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,withcat.ai
+DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
