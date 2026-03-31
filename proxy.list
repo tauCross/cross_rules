@@ -87,6 +87,7 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare.net
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,akadns.net
+DOMAIN-SUFFIX,cdnedge.live
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,openstreetmap.org
 DOMAIN-SUFFIX,alpinelinux.org
