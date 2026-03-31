@@ -198,6 +198,9 @@ DOMAIN-SUFFIX,melvoridle.com
 DOMAIN-SUFFIX,paradoxinteractive.com
 DOMAIN-SUFFIX,gnjoy.com.tw
 
+# Torrent
+DOMAIN-SUFFIX,btdig.com
+
 # Finance / Crypto / Privacy
 DOMAIN-SUFFIX,safepal.com
 DOMAIN-SUFFIX,okx.com
