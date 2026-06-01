@@ -72,6 +72,7 @@ DOMAIN-SUFFIX,hugeicons.com
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,fastly-edge.com
 DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare.net
