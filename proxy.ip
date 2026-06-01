@@ -8,6 +8,7 @@ IP-CIDR,31.13.87.9/32,no-resolve
 IP-CIDR,31.13.95.18/32,no-resolve
 IP-CIDR,31.13.96.194/32,no-resolve
 IP-CIDR,32.252.230.4/32,no-resolve
+IP-CIDR,34.36.0.14/32,no-resolve
 IP-CIDR,45.77.186.255/32,no-resolve
 IP-CIDR,47.88.58.234/32,no-resolve
 IP-CIDR,52.58.1.161/32,no-resolve
@@ -61,6 +62,7 @@ IP-CIDR,202.160.129.164/32,no-resolve
 IP-CIDR,210.56.51.192/32,no-resolve
 IP-CIDR,216.239.32.178/32,no-resolve
 IP-CIDR,216.239.34.178/32,no-resolve
+IP-CIDR,216.239.36.178/32,no-resolve
 IP-CIDR,216.239.38.178/32,no-resolve
 
 # IP Rules (IPv6)
