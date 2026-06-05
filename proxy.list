@@ -80,6 +80,7 @@ DOMAIN-SUFFIX,cloudflare.net
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,trafficmanager.net
 DOMAIN-SUFFIX,cdnedge.live
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,openstreetmap.org
