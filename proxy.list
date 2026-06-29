@@ -134,6 +134,12 @@ DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,netflix.net
+DOMAIN-SUFFIX,nflxvideo.net
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflxso.net
+DOMAIN-SUFFIX,nflxext.com
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,omdbapi.com
